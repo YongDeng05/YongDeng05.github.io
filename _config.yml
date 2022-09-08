@@ -84,37 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoctoral fellow, University of Toronto"
   location         : "Toronto, Ontario, Canada"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=YdygMMMAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : "Yong.Deng@utoronto.ca"
   researchgate     :  "https://www.researchgate.net/profile/Yong-Deng-13"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : #"academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  linkedin         :  "https://www.linkedin.com/in/yong-deng-59373b15a"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0120-5767"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
