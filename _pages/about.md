@@ -1,3 +1,4 @@
+{% comment %}
 ---
 permalink: /
 title: "Yong Deng's personal website"
@@ -7,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% endcomment %}
 
 I am a Postdoctoral fellow at the University of Toronto. I received my Ph.D. degree in Electrical and Computer Engineering from Ontario Tech University, under the supervision of [Dr. Min Dong](https://faculty.ontariotechu.ca/dong/). Prior to that, I received  both Master's degree from Zhejiang Gongshang University (China) and Bachelor's degree from Wuhan University of Technology (China), both in Computer Science.
 
