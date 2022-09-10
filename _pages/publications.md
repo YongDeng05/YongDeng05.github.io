@@ -25,8 +25,6 @@ Coded Caching:
 
 7 . Yong Deng and Min Dong, “Optimal Cache Placement for Modified Coded Caching with Arbitrary Cache Size,” in Proc. 20th IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Jul., 2019. 
 
-Network Security and Mechanism Design:
-===
 1. Abdulrahman Alamer, Yong Deng, Guiyi Wei, and Xiaodong Lin, “Collaborative Security in Vehicular Cloud Computing: A Game Theoretic View,” IEEE Network, vol. 32, no. 3, pp. 72-77, Jun. 2018.
 
 
