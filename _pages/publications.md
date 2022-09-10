@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ==================================
+
 Coded Distributed Computing: 
 
 1 . Yong Deng and Min Dong, ‘Heterogeneous Coded Distributed Computing with Nonuniform Input File Popularity,” in Proc. IEEE International Conference on Communications (ICC), Seoul, South Korea, May, 2022. 
@@ -26,6 +27,7 @@ Coded Caching:
 7 . Yong Deng and Min Dong, “Optimal Cache Placement for Modified Coded Caching with Arbitrary Cache Size,” in Proc. 20th IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Jul., 2019. 
 
 =========================================================
+
 Network Security and Mechanism Design: 
 
 1. Abdulrahman Alamer , Yong Deng, Guiyi Wei, and Xiaodong Lin, “Collaborative Security in Vehicular Cloud Computing: A Game Theoretic View,” IEEE Network, vol. 32, no. 3, pp. 72-77, Jun. 2018. 
@@ -35,6 +37,7 @@ Network Security and Mechanism Design:
 5. Abdulrahman Alamer , Yong Deng, and Xiaodong Lin, “Secure and Privacy-Preserving Task Announcement in Vehicular Cloud,” in Proc. IEEE International Conference on Wireless Communications and Signal Processing (WCSP), Oct., 2017. 
 
 ======================================================
+
 MANUSCRIPTSUNDER REVIEW 
 
 1 . Yong Deng and Min Dong, “Compressed Heterogeneous Coded Distributed Computing with Nonuniform Input File Popularity,” submitted to IEEE Transactions on Mobile Computing, Sep., 2022. 
