@@ -4,12 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font size=4>我是变大的字</font>
-Coded Distributed Computing: 
-===
+<font size=1>Coded Distributed Computing:</font>
+
 1 . Yong Deng and Min Dong, ‘Heterogeneous Coded Distributed Computing with Nonuniform Input File Popularity,” in Proc. IEEE International Conference on Communications (ICC), Seoul, South Korea, May, 2022. 
 
-Coded Caching: 
+<font size=1>Coded Caching:</font>
 ===
 1 . Yong Deng and Min Dong, “Memory-Rate Tradeoff for Caching with Uncoded Placement under Nonuniform Random Demands,” in IEEE Transactions on Information Theory, Jul., 2022, doi: 10.1109/TIT.2022.3193316. (Early access.) 
 
