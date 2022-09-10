@@ -27,9 +27,7 @@ Coded Caching:
 
 Network Security and Mechanism Design:
 ===
-1. Abdulrahman Alamer , Yong Deng, Guiyi Wei, and Xiaodong Lin, “Collaborative Security in Vehicular Cloud Computing: A Game Theoretic View,” IEEE Network, vol. 32, no. 3, pp. 72-77, Jun. 2018. 
-2. Abdulrahman Alamer , Yong Deng, and Xiaodong Lin, “A Privacy-Preserving and Truthful Tendering Framework for Vehicle Cloud Computing,” in Proc. IEEE International Conference on Communications (ICC), Paris, France, May, 2017. 
-3. Abdulrahman Alamer , Yong Deng, and Xiaodong Lin, “Secure and Privacy-Preserving Task Announcement in Vehicular Cloud,” in Proc. IEEE International Conference on Wireless Communications and Signal Processing (WCSP), Oct., 2017. 
+1. Abdulrahman Alamer, Yong Deng, Guiyi Wei, and Xiaodong Lin, “Collaborative Security in Vehicular Cloud Computing: A Game Theoretic View,” IEEE Network, vol. 32, no. 3, pp. 72-77, Jun. 2018.
 
 
 MANUSCRIPTSUNDER REVIEW 
