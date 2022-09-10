@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+<font size=4>我是变大的字</font>
 Coded Distributed Computing: 
 ===
 1 . Yong Deng and Min Dong, ‘Heterogeneous Coded Distributed Computing with Nonuniform Input File Popularity,” in Proc. IEEE International Conference on Communications (ICC), Seoul, South Korea, May, 2022. 
@@ -36,7 +36,7 @@ Computing,” in Proc. IEEE International Conference on Communications (ICC), Pa
 Proc. IEEE International Conference on Wireless Communications and Signal Processing (WCSP), Oct., 2017.
 
 
-MANUSCRIPTSUNDER REVIEW 
+MANUSCRIPTS UNDER REVIEW 
 ===
 1 . Yong Deng and Min Dong, “Compressed Heterogeneous Coded Distributed Computing with Nonuniform Input File Popularity,” submitted to IEEE Transactions on Mobile Computing, Sep., 2022. 
 
