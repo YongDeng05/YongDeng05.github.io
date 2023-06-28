@@ -17,7 +17,7 @@ author_profile: true
 
 3. Yong Deng and Min Dong, "Memory-Rate Tradeoff for Caching With Uncoded Placement Under Nonuniform Random Demands," in IEEE Transactions on Information Theory, vol. 68, no. 12, pp. 7850-7870, Dec. 2022, doi: 10.1109/TIT.2022.3193316.
 
-4. Yong Deng and Min Dong, "Memory-Rate Tradeoff for Caching With Uncoded Placement Under Nonuniform Random Demands," in IEEE Transactions on Information Theory, vol. 68, no. 12, pp. 7850-7870, Dec. 2022, doi: 10.1109/TIT.2022.3193316.
+4. Yong Deng and Min Dong, "Fundamental Structure of Optimal Cache Placement for Coded Caching With Nonuniform Demands," in IEEE Transactions on Information Theory, vol. 68, no. 10, pp. 6528-6547, Oct. 2022, doi: 10.1109/TIT.2022.3179266.
 
 6. Yong Deng and Min Dong, “Memory-Rate Tradeoff for Decentralized Caching under Nonuniform File Popularity,” in Proc. 19th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt), Oct. 2021. 
 
