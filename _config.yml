@@ -81,8 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Yong Deng"
+  Assistant Professor, St. Francis Xavier University
+  Email:yong.deng@lakeheadu.ca
   avatar           : "YD.jpg"
-  bio              : "Assistant Professor, St. Francis Xavier University\\Email:yong.deng@lakeheadu.ca"
+
   email            : Yong.Deng@lakeheadu.ca
   location         : "Canada"
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=YdygMMMAAAAJ&view_op=list_works&sortby=pubdate"
